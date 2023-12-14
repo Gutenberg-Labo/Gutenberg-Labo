@@ -6,8 +6,7 @@ Gutenberg Labo では、和洋を問わずパブリックドメインとなっ�
 
 * GL-Geomancy / ジオマンシー（土占術）シンボル
 * GL-SnowBentley / 雪の結晶
-* GL-MahjongTile
-    * GL-MahjongTile / 麻雀牌
+* GL-MahjongTile / 麻雀牌
     * GL-MahjongTile-Clr / 麻雀牌・色付きWebフォント
 * GL-Grimoire-MajKey / ソロモンの大きな鍵（惑星護符）
 * GL-Grimoire-MinKey / ソロモンの小さな鍵（72柱の精霊の紋章）
