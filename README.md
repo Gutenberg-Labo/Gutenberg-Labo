@@ -24,7 +24,7 @@ Gutenberg Labo では、和洋を問わずパブリックドメインとなっ�
     * GL-DancingMen-Org / 「踊る人形」オリジナル画像版
 * [GL-GermanCursive](https://github.com/Gutenberg-Labo/GL-GermanCursive) / ドイツ文字の筆記体
 
-## Japanese Character Fet Fonts / かな・和文フォント
+## Japanese Character Set Fonts / かな・和文フォント
 
 * [Otomanopee](https://github.com/Gutenberg-Labo/Otomanopee) / オとマのペ（オリジナルかな書体）
 * [GL-Tsukiji](https://github.com/Gutenberg-Labo/GL-Tsukiji)
