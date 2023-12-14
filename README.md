@@ -2,7 +2,7 @@
 
 Gutenberg Labo では、和洋を問わずパブリックドメインとなった古い書体や記号などをフォント化したものや、オリジナルでデザインしたフォントを、オープンソースフォントとして公開しています。
 
-## [Dingbats](https://github.com/Gutenberg-Labo/DingbatFonts)  / 絵フォント
+## [Dingbat Fonts](https://github.com/Gutenberg-Labo/DingbatFonts)  / 絵フォント
 
 * GL-Geomancy / ジオマンシー（土占術）シンボル
 * GL-SnowBentley / 雪の結晶
