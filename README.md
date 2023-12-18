@@ -26,6 +26,7 @@ Gutenberg Labo では、和洋を問わずパブリックドメインとなっ�
 ## Japanese Character Set Fonts / かな・和文フォント
 
 * [Otomanopee](https://github.com/Gutenberg-Labo/Otomanopee) / オとマのペ（オリジナルかな書体）
+* [GL-NovantiquaMinamoto](https://github.com/Gutenberg-Labo/GL-NovantiquaMinamoto) / GL-ノバンチカ源（漫画セリフ用書体）
 * [GL-Tsukiji](https://github.com/Gutenberg-Labo/GL-Tsukiji)
     * GL-Tsukiji-Shogo / GL-築地初号
     * GL-Tsukiji-2go / GL-築地二号
