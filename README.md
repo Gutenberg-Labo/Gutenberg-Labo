@@ -13,6 +13,8 @@ Gutenberg Labo では、和洋を問わずパブリックドメインとなっ�
 
 ## Latin Character Set Fonts / 欧文フォント
 
+* [GL-StarTaker](https://github.com/Gutenberg-Labo/GL-StarTaker) / テクストゥーラ系オリジナル欧文フォント
+* [GL-StellaMystica](https://github.com/Gutenberg-Labo/GL-StellaMystica) / ブラックレター系オリジナル欧文フォント
 * [GL-Morris](https://github.com/Gutenberg-Labo/GL-Morris) / ウィリアム・モリス「トロイ活字」
 * [GL-Runen](https://github.com/Gutenberg-Labo/GL-Runen) / ルーン文字
 * [GL-Nummernschild](https://github.com/Gutenberg-Labo/GL-Nummernschild)
