@@ -30,6 +30,7 @@ Gutenberg Labo では、和洋を問わずパブリックドメインとなっ�
 * [Otomanopee](https://github.com/Gutenberg-Labo/Otomanopee) / オとマのペ（オリジナルかな書体）
 * [GL-CurulMinamoto](https://github.com/Gutenberg-Labo/GL-CurulMinamoto) / GL-くるる源（オリジナルかな書体・漢字混植済）
 * [GL-NovantiquaMinamoto](https://github.com/Gutenberg-Labo/GL-NovantiquaMinamoto) / GL-ノバンチカ源（漫画セリフ用書体）
+    * （ [GL-Antique](https://github.com/Gutenberg-Labo/GL-Antique) / GL-アンチック（漫画セリフ用書体・旧版））
 * [GL-Tsukiji](https://github.com/Gutenberg-Labo/GL-Tsukiji)
     * GL-Tsukiji-Shogo / GL-築地初号
     * GL-Tsukiji-2go / GL-築地二号
